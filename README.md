@@ -140,7 +140,12 @@ sudo systemctl start postgresql
 sudo systemctl enable postgresql
 
 sudo -i -u postgres
+
 psql
 
+\! clear
+
 \q
+
+
 ```
