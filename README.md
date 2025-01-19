@@ -2,6 +2,10 @@
 
 This guide will walk you through the steps to install PostgreSQL on an Ubuntu-based system using the official PostgreSQL APT repository. 
 
+###
+![Screenshot from 2025-01-19 09-18-09](https://github.com/user-attachments/assets/e29e0b1c-54bb-4379-b9e7-142dae4d6a41)
+###
+
 ## Prerequisites
 
 - A system running Ubuntu (any supported version).
